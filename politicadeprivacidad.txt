@@ -1,0 +1,44 @@
+Política de Privacidad del Bot de Discord
+
+Última actualización: [18/08/2024]
+
+1. Introducción
+Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos la información de los usuarios que interactúan con nuestro bot en Discord. Al utilizar el bot, aceptas las prácticas descritas en esta política.
+
+2. Información que Recopilamos
+El bot recopila una cantidad limitada de información para su funcionamiento y mejora continua. La información que podemos recopilar incluye:
+
+Comandos Utilizados: Se registra cada comando que un usuario ingresa en el bot para realizar una acción, como reproducir un audio o solicitar los créditos.
+Frecuencia de Uso: Se puede registrar cuántas veces se han utilizado ciertos comandos, como la cantidad de veces que se ha reproducido un audio específico.
+Datos del Servidor: Información básica del servidor de Discord donde está instalado el bot, como el ID del servidor, el ID del canal de voz utilizado y los IDs de los usuarios que interactúan con el bot.
+3. Uso de la Información Recopilada
+La información recopilada se utiliza exclusivamente para:
+
+Mejora del Servicio: Analizar el uso del bot para mejorar su funcionalidad y rendimiento.
+Monitoreo y Mantenimiento: Identificar y solucionar problemas técnicos o errores que puedan surgir durante el uso del bot.
+Seguridad: Garantizar que el bot se utiliza de manera segura y conforme a los Términos de Servicio.
+4. Compartición de la Información
+No compartimos la información recopilada con terceros, excepto en los siguientes casos:
+
+Cumplimiento Legal: Podemos compartir información si se nos requiere legalmente para hacerlo, como en respuesta a una orden judicial o solicitud gubernamental.
+Protección de Derechos: Si es necesario, para proteger los derechos, propiedad o seguridad del bot, de sus usuarios, o del público en general.
+5. Retención de Datos
+La información recopilada se retiene únicamente mientras sea necesaria para los fines descritos en esta política. Una vez que la información ya no es necesaria, se elimina de manera segura.
+
+6. Seguridad de la Información
+Tomamos medidas razonables para proteger la información recopilada contra pérdida, robo, acceso no autorizado, divulgación, alteración y destrucción. Sin embargo, ningún sistema de seguridad es impenetrable, y no podemos garantizar la seguridad absoluta de los datos.
+
+7. Derechos de los Usuarios
+Acceso a la Información: Puedes solicitar acceso a la información que hemos recopilado sobre ti.
+Corrección de Datos: Si crees que alguna información recopilada es incorrecta, puedes solicitar su corrección.
+Eliminación de Datos: Tienes el derecho de solicitar la eliminación de la información recopilada, aunque esto puede afectar la funcionalidad del bot en tu servidor.
+8. Enlaces a Contenido de Terceros
+El bot reproduce contenido de un tercero, Momoladinastia. No somos responsables por la privacidad o las prácticas de manejo de datos de Momoladinastia o cualquier otro tercero cuyo contenido se reproduzca a través del bot.
+
+9. Cambios a esta Política de Privacidad
+Podemos actualizar esta Política de Privacidad en cualquier momento. Cualquier cambio significativo será comunicado a través de un anuncio en nuestro servidor de soporte o mediante un mensaje directo en Discord. Tu uso continuado del bot después de los cambios constituye tu aceptación de la nueva política.
+
+10. Contacto y Soporte
+Si tienes preguntas o inquietudes sobre esta Política de Privacidad o sobre la gestión de tu información, puedes contactarnos a través de nuestro servidor de soporte en Discord [inserta enlace al servidor de soporte] o mediante un mensaje directo al desarrollador.
+
+Al utilizar este bot, confirmas que has leído, entendido y aceptado esta Política de Privacidad.

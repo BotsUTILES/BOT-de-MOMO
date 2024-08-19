@@ -1,0 +1,41 @@
+Términos de Servicio del Bot de Discord
+
+Última actualización: [18/08/2024]
+
+1. Aceptación de los Términos
+Al invitar y utilizar el bot en tu servidor de Discord, aceptas cumplir con los presentes Términos de Servicio. Si no estás de acuerdo con alguno de los términos, no debes utilizar el bot.
+
+2. Descripción del Servicio
+El bot ofrece la funcionalidad de reproducir audios del youtuber Momoladinastia en los canales de voz de Discord. Además, el bot incluye un comando !creditos que proporciona créditos al creador del contenido utilizado, Momoladinastia.
+
+3. Uso del Bot
+Acceso y Uso: El bot debe ser utilizado únicamente para los fines establecidos, como la reproducción de los audios de Momoladinastia. Cualquier uso indebido, incluyendo pero no limitado a la manipulación del bot para fines no autorizados, puede resultar en la prohibición del uso del bot en tu servidor.
+
+Comando !creditos: Al utilizar este comando, el bot mostrará un mensaje de agradecimiento y créditos a Momoladinastia, reconociendo su trabajo como creador de los audios.
+
+4. Responsabilidad del Usuario
+Cumplimiento de Normas: Los usuarios son responsables de garantizar que el uso del bot cumple con las reglas y políticas de Discord, así como con las normativas de su servidor.
+
+Control del Contenido: El bot reproduce contenido previamente seleccionado y disponible públicamente. No somos responsables del contenido reproducido a través del bot, ya que este es provisto por terceros (Momoladinastia).
+
+5. Propiedad Intelectual
+Derechos de Autor: Todo el contenido reproducido a través del bot es propiedad de Momoladinastia. El uso de los audios está permitido solo en el contexto de este bot. Cualquier intento de descargar, redistribuir o modificar los audios fuera del uso permitido será considerado una infracción de derechos de autor.
+
+Licencia Limitada: Al utilizar el bot, se te otorga una licencia limitada, no exclusiva, y revocable para utilizar el bot en tu servidor de Discord. Esta licencia no te otorga ningún derecho sobre el contenido, excepto el uso permitido en el contexto del bot.
+
+6. Privacidad
+El bot puede recolectar y almacenar datos básicos para su funcionamiento, como los comandos utilizados y el número de veces que se ha reproducido un audio. Estos datos se utilizan exclusivamente para mejorar la funcionalidad del bot y no se comparten con terceros.
+
+7. Limitación de Responsabilidad
+No nos hacemos responsables por cualquier daño directo o indirecto, incidental o consecuente que resulte del uso o la imposibilidad de usar el bot. Esto incluye, pero no se limita a, daños por pérdida de datos, interrupciones de servicio, o cualquier otra pérdida financiera.
+
+8. Modificaciones a los Términos de Servicio
+Nos reservamos el derecho de modificar estos Términos de Servicio en cualquier momento. Te notificaremos sobre cualquier cambio a través de un anuncio en nuestro servidor de soporte o mediante un mensaje directo en Discord. El uso continuado del bot tras la modificación de los términos constituirá tu aceptación de los nuevos términos.
+
+9. Terminación del Servicio
+Nos reservamos el derecho de desactivar o eliminar el bot de cualquier servidor sin previo aviso si consideramos que se están infringiendo estos Términos de Servicio o por cualquier otra razón que consideremos justificada.
+
+10. Contacto y Soporte
+Para cualquier consulta, problema o sugerencia relacionada con el bot, puedes contactarnos a través de nuestro servidor de soporte en Discord [inserta enlace al servidor de soporte] o mediante un mensaje directo al desarrollador.
+
+Al usar este bot, confirmas que has leído, entendido y aceptado estos Términos de Servicio.
