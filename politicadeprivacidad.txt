@@ -1,6 +1,6 @@
 Política de Privacidad del Bot de Discord
 
-Última actualización: [18/08/2024]
+Última actualización: [12/09/2024]
 
 1. Introducción
 Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos la información de los usuarios que interactúan con nuestro bot en Discord. Al utilizar el bot, aceptas las prácticas descritas en esta política.
