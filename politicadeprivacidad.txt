@@ -13,15 +13,15 @@ Frecuencia de Uso: Se puede registrar cuántas veces se han utilizado ciertos co
 Datos del Servidor: Información básica del servidor de Discord donde está instalado el bot, como el ID del servidor, el ID del canal de voz utilizado y los IDs de los usuarios que interactúan con el bot.
 3. Uso de la Información Recopilada
 La información recopilada se utiliza exclusivamente para:
-
 Mejora del Servicio: Analizar el uso del bot para mejorar su funcionalidad y rendimiento.
 Monitoreo y Mantenimiento: Identificar y solucionar problemas técnicos o errores que puedan surgir durante el uso del bot.
 Seguridad: Garantizar que el bot se utiliza de manera segura y conforme a los Términos de Servicio.
+
 4. Compartición de la Información
 No compartimos la información recopilada con terceros, excepto en los siguientes casos:
-
 Cumplimiento Legal: Podemos compartir información si se nos requiere legalmente para hacerlo, como en respuesta a una orden judicial o solicitud gubernamental.
 Protección de Derechos: Si es necesario, para proteger los derechos, propiedad o seguridad del bot, de sus usuarios, o del público en general.
+
 5. Retención de Datos
 La información recopilada se retiene únicamente mientras sea necesaria para los fines descritos en esta política. Una vez que la información ya no es necesaria, se elimina de manera segura.
 
@@ -29,7 +29,7 @@ La información recopilada se retiene únicamente mientras sea necesaria para lo
 Tomamos medidas razonables para proteger la información recopilada contra pérdida, robo, acceso no autorizado, divulgación, alteración y destrucción. Sin embargo, ningún sistema de seguridad es impenetrable, y no podemos garantizar la seguridad absoluta de los datos.
 
 7. Derechos de los Usuarios
-Eliminación de Datos: Tienes el derecho de solicitar la eliminación de la información recopilada, aunque esto puede afectar la funcionalidad del bot en tu servidor.
+Eliminación de Datos: No hay posibilidad de borrar tus datos, ya que son recopilados para una mejor moderacion del servidor y si quieres que se borren deberas abandonar el servidor.
 8. Enlaces a Contenido de Terceros
 El bot reproduce contenido de un tercero, Momoladinastia. No somos responsables por la privacidad o las prácticas de manejo de datos de Momoladinastia o cualquier otro tercero cuyo contenido se reproduzca a través del bot.
 
