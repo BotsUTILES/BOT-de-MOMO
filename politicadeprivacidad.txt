@@ -7,7 +7,7 @@ Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos
 
 2. Información que Recopilamos
 El bot recopila una cantidad limitada de información para su funcionamiento y mejora continua. La información que podemos recopilar incluye:
-
+Mensajes Enviados: Se registra todos los mensajes que envia para asi comprobar si utiliza de buena manera los canales de textos del servidor.
 Comandos Utilizados: Se registra cada comando que un usuario ingresa en el bot para realizar una acción, como reproducir un audio o solicitar los créditos.
 Frecuencia de Uso: Se puede registrar cuántas veces se han utilizado ciertos comandos, como la cantidad de veces que se ha reproducido un audio específico.
 Datos del Servidor: Información básica del servidor de Discord donde está instalado el bot, como el ID del servidor, el ID del canal de voz utilizado y los IDs de los usuarios que interactúan con el bot.
@@ -29,8 +29,6 @@ La información recopilada se retiene únicamente mientras sea necesaria para lo
 Tomamos medidas razonables para proteger la información recopilada contra pérdida, robo, acceso no autorizado, divulgación, alteración y destrucción. Sin embargo, ningún sistema de seguridad es impenetrable, y no podemos garantizar la seguridad absoluta de los datos.
 
 7. Derechos de los Usuarios
-Acceso a la Información: Puedes solicitar acceso a la información que hemos recopilado sobre ti.
-Corrección de Datos: Si crees que alguna información recopilada es incorrecta, puedes solicitar su corrección.
 Eliminación de Datos: Tienes el derecho de solicitar la eliminación de la información recopilada, aunque esto puede afectar la funcionalidad del bot en tu servidor.
 8. Enlaces a Contenido de Terceros
 El bot reproduce contenido de un tercero, Momoladinastia. No somos responsables por la privacidad o las prácticas de manejo de datos de Momoladinastia o cualquier otro tercero cuyo contenido se reproduzca a través del bot.
